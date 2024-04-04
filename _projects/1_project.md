@@ -1,25 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Airborne Pathogen Detection
+description: Epidemic preparedness
+img: assets/img/esp_cover.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The older population (85+) in the United States is expected to more than double from 6.7 to 14.4 million by 2040. Even before COVID-19, weekly death counts in long-term care facilities could spike by up to 5,000 during seasonal flu outbreaks . Our recent participation in the NSF National I-Corps program revealed the urgent need for rapid on-site, airborne pathogen detection for preemptive action against air-transmissible infectious diseases, well before contagious individuals show symptoms. This applies both to future pandemics and to endemic viral diseases, such as influenza and COVID-19, which hit vulnerable populations yearly with severe consequences. The ultra-low concentrations of virus in the air make airborne virus detection difficult, yet readily infect individuals {% cite du2023characterization %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

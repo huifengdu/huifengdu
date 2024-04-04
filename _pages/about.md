@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Associate in <a href='https://meche.mit.edu/'>Mechanical Engineering </a> at <a href='https://www.mit.edu/'>MIT</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 3-473 M</p>
+    <p>77 Massachusetts Avenue</p>
+    <p>Cambridge, MA 02139</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a scientist and mechanical engineer, with my research focusing on design, manufacturing and development of biosensors. I am currently working with [Prof. Domitilla Del Vecchio](https://scripts.mit.edu/~ddv/index.php) at Massachusetts Institute of Technology. Previously, I obtained my Ph.D. and M.S. from Massachusetts Institute of Technology advised by [Prof. Nicholas X. Fang](https://web.mit.edu/nanophotonics/), and my B.S. from Peking University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are centered around the development and application of advanced materials and technologies for health and engineering. This includes the creation of fieldable biosensors for both in vitro applications and environmental health monitoring, aiming to provide real-time, on-site diagnostic capabilities. I am also deeply involved in the mechanical design and characterization of microarchitectured materials, which find multifunctional applications across structural engineering, acoustics, photonics, and biology. These materials are designed to offer unique properties through architectural design. Furthermore, my work encompasses the design and manufacturing of soft composites through additive manufacturing techniques, such as stereolithography and material extrusion. This area focuses on creating flexible, durable materials for a range of applications, leveraging the precision and versatility of 3D printing technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to reach out through my [email](mailto:hfdu@mit.edu)!
