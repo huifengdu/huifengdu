@@ -123,26 +123,17 @@
     {
       "name": "Biosensing",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Airborne pathogen detection",
-        "Metagenomic sequencing"
-      ]
-    }, 
+      "keywords": ["Airborne pathogen detection", "Metagenomic sequencing"]
+    },
     {
       "name": "Manufacturing",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Projection Stereolithography",
-        "Material extrusion-based 3D printing"
-      ]
+      "keywords": ["Projection Stereolithography", "Material extrusion-based 3D printing"]
     },
     {
       "name": "Sensor design",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Tactile sensors",
-        "Gas detection"
-      ]
+      "keywords": ["Tactile sensors", "Gas detection"]
     }
   ]
 }
