@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new work on [biosensing](https://huifengdu.github.io/projects/1_project/) is accepted by Biosensors and Bioelectronics: X! Congratulations, everyone!
+Our new work on [biosensing](https://doi.org/10.1016/j.biosx.2024.100488) is accepted by Biosensors and Bioelectronics: X! Congratulations, everyone!
