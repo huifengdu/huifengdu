@@ -9,10 +9,10 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
-  <h2>First- and Co-first-authored Publications</h2>
+  <h2>First- and co-first-authored. #: equal contributions</h2>
   {% bibliography --query @*[keywords=first-authored] %}
   
-  <h2>Co-authored Publications</h2>
+  <h2>Co-authored:</h2>
   {% bibliography --query @*[keywords=co-authored] %}
 
   <h2>Theses and Patents</h2>
